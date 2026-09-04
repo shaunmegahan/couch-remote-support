@@ -75,6 +75,15 @@ footer {
   font-size: 0.9rem;
 }
 
+.legal {
+  margin: 18px auto 0;
+  max-width: 620px;
+  color: #7f899c;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
 @media (max-width: 520px) {
   main { width: min(100% - 24px, 760px); padding-top: 36px; }
   header { align-items: flex-start; }

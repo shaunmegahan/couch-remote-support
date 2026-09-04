@@ -1,2 +1,2 @@
-# couch-remote-support
-Support and privacy information for Couch Remote for Mac
+# SofaPilot Remote support
+Public support and privacy information for SofaPilot Remote.
